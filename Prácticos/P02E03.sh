@@ -13,4 +13,5 @@ git add .
 git commit -m "Añadido autor"
 # Subir los cambios al repositorio remoto.
 git push
+cd ..
 # Entre los diferentes colaboradores generar conflictos en múlples archivos y resolverlos. Analizar el registro de confirmaciones con git log.
